@@ -3,7 +3,7 @@
  */
 
 const config = {
-    base: '/algo-visualizer'
+    base: '/a-star-js'
 }
 
 export default config;
